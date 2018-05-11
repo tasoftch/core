@@ -1,0 +1,14 @@
+{
+	"name": "tasoft/core",
+	"description": "The TASoft's core library",
+	"type": "library",
+	"license": "MIT",
+	"minimum-stability": "dev",
+	"require": {
+	},
+	"autoload": {
+		"psr-4": {
+			"TASoft\\Core\\": "src/"
+		}
+	}
+}
